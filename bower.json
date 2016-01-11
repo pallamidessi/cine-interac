@@ -1,0 +1,23 @@
+{
+  "name": "cine-interac",
+  "homepage": "https://github.com/pallamidessi/cine-interac",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "d3": "~3.5.12",
+    "moment": "~2.11.1",
+    "font-awesome": "~4.5.0",
+    "jquery": "~2.2.0"
+  }
+}
